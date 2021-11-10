@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Penyebab dan 5 Cara Atasi Rambut Rontok Setelah Melahirkan</string>
+    <string name="tanggal">Rabu, 27 Oktober 2021</string>
+    <string name="author">Ahmad Ilmifi Arkan</string>
+    <string name="content_news">image News</string>
+</resources>
